@@ -1,0 +1,47 @@
+{
+	"users": [
+		{
+			"name": "kevin",
+			"floor": 1
+		},{
+			"name": "sara",
+			"floor": 1
+		},{
+			"name": "elysse",
+			"floor": 1
+		},{
+			"name": "richard",
+			"floor": 1
+		},{
+			"name": "sarah",
+			"floor": 1
+		},{
+			"name": "aerial",
+			"floor": 1
+		},{
+			"name": "rick",
+			"floor": 2
+		},{
+			"name": "dori",
+			"floor": 2
+		},{
+			"name": "stephen",
+			"floor": 2
+		},{
+			"name": "james",
+			"floor": 2
+		},{
+			"name": "gurpal",
+			"floor": 3
+		},{
+			"name": "charlene",
+			"floor": 3
+		},{
+			"name": "julian",
+			"floor": 3
+		},{
+			"name": "ruby",
+			"floor": 3
+		}
+	]
+}
