@@ -8,6 +8,12 @@
 
 const fs = require('fs');
 
+
+function jsUcfirst(string) 
+{
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 function getNextThree() {
 	// Push the first three to the end of the list, we'll fetch them after!
 	f1.push(f1.shift());
@@ -42,20 +48,21 @@ function getNextCandidates(untilDate) {
 	while(startDate < untilDate) {
 		// get the next dataset and week
 		var nextUsers = getNextThree();
-		startDate.setDate(startDate.getDate() + 7)	
 		var takerOuterIndex = Math.floor(Math.random() * 3);
 
 		var next3events = nextUsers.map(function(user, i) {
 			return {
 				'start': startDate.toISOString(), 
-				'title': user.name, 
+				'title': jsUcfirst(user.name) + ' (Floor: ' + user.floor + ')', 
 				'user': user,
 				'isTakerOuter': takerOuterIndex == i,
 			}
 		});
 		
 		results.push(...next3events);
-		
+
+		// Get the next indexes/dates
+		startDate.setDate(startDate.getDate() + 7)	
 		index++;
 	}
 

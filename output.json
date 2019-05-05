@@ -1,610 +1,610 @@
 [
   {
-    "start": "2019-05-13T07:00:00.000Z",
-    "title": "sarah",
+    "start": "2019-05-06T07:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
     "user": {
       "name": "sarah",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-05-06T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-05-06T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-05-13T07:00:00.000Z",
-    "title": "stephen",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "stephen",
-      "floor": 2
+      "name": "aerial",
+      "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-05-13T07:00:00.000Z",
-    "title": "julian",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "julian",
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-05-13T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-05-20T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-05-20T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2019-05-20T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-05-27T07:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-05-27T07:00:00.000Z",
-    "title": "rick",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "rick",
-      "floor": 2
+      "name": "sara",
+      "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-05-27T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-05-27T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-03T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-06-03T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-03T07:00:00.000Z",
-    "title": "dori",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "dori",
-      "floor": 2
+      "name": "julian",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
-    "start": "2019-06-03T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
     "start": "2019-06-10T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-10T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-06-10T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-17T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-06-17T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-17T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-06-17T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-24T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-06-24T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-06-24T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-01T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-07-01T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-01T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-08T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-08T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2019-07-08T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-07-15T07:00:00.000Z",
-    "title": "sara",
-    "user": {
-      "name": "sara",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-07-15T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-07-15T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "ruby",
+      "name": "elysse",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-07-15T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-07-15T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-22T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-22T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2019-07-22T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2019-07-29T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-07-29T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-07-29T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-08-05T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-08-05T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-08-05T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-08-12T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-08-12T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-08-12T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-08-12T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-08-19T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-08-19T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-08-19T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-08-19T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-08-26T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-08-26T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-08-26T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-08-26T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-02T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-02T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2019-09-02T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2019-09-09T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-09T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-09-09T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-16T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-09-16T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-16T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-09-16T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-09-23T07:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-09-23T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-09-23T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Charlene (Floor: 3)",
     "user": {
       "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-09-23T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
+    "user": {
+      "name": "kevin",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-09-23T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-09-23T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-30T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-09-30T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-09-30T07:00:00.000Z",
-    "title": "julian",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "julian",
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-09-30T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-10-07T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-10-07T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-10-07T07:00:00.000Z",
-    "title": "ruby",
-    "user": {
-      "name": "ruby",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-10-14T07:00:00.000Z",
-    "title": "elysse",
-    "user": {
-      "name": "elysse",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-10-14T07:00:00.000Z",
-    "title": "rick",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
@@ -612,107 +612,107 @@
     "isTakerOuter": false
   },
   {
-    "start": "2019-10-14T07:00:00.000Z",
-    "title": "gurpal",
+    "start": "2019-10-07T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-10-14T07:00:00.000Z",
+    "title": "Richard (Floor: 1)",
+    "user": {
+      "name": "richard",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-10-14T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-10-14T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-10-21T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-10-21T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-10-21T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-10-28T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-10-28T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-10-28T07:00:00.000Z",
-    "title": "julian",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "julian",
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-10-28T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-11-04T08:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-11-04T08:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-11-04T08:00:00.000Z",
-    "title": "ruby",
-    "user": {
-      "name": "ruby",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-11-11T08:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-11-11T08:00:00.000Z",
-    "title": "rick",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
@@ -720,197 +720,197 @@
     "isTakerOuter": false
   },
   {
-    "start": "2019-11-11T08:00:00.000Z",
-    "title": "gurpal",
+    "start": "2019-11-04T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-11-11T08:00:00.000Z",
+    "title": "Sara (Floor: 1)",
+    "user": {
+      "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2019-11-11T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-11-11T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-11-18T08:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-11-18T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-11-18T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-11-18T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-11-25T08:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-11-25T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-11-25T08:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-02T08:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-12-02T08:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-02T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-09T08:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-09T08:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-09T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2019-12-16T08:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-12-16T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-16T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2019-12-16T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-23T08:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2019-12-23T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2019-12-23T08:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-12-30T08:00:00.000Z",
-    "title": "sara",
-    "user": {
-      "name": "sara",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2019-12-30T08:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2019-12-30T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
       "floor": 3
@@ -918,8 +918,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-01-06T08:00:00.000Z",
-    "title": "elysse",
+    "start": "2019-12-30T08:00:00.000Z",
+    "title": "Elysse (Floor: 1)",
     "user": {
       "name": "elysse",
       "floor": 1
@@ -927,8 +927,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-01-06T08:00:00.000Z",
-    "title": "rick",
+    "start": "2019-12-30T08:00:00.000Z",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
@@ -936,8 +936,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-01-06T08:00:00.000Z",
-    "title": "gurpal",
+    "start": "2019-12-30T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
       "floor": 3
@@ -945,8 +945,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2020-01-13T08:00:00.000Z",
-    "title": "richard",
+    "start": "2020-01-06T08:00:00.000Z",
+    "title": "Richard (Floor: 1)",
     "user": {
       "name": "richard",
       "floor": 1
@@ -954,98 +954,98 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-01-13T08:00:00.000Z",
-    "title": "dori",
+    "start": "2020-01-06T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
     "user": {
       "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-01-06T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-01-13T08:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
+    "user": {
+      "name": "sarah",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-01-13T08:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-01-13T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-01-20T08:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-01-20T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-01-20T08:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-01-27T08:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-01-27T08:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-01-27T08:00:00.000Z",
-    "title": "ruby",
-    "user": {
-      "name": "ruby",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-02-03T08:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-02-03T08:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-02-03T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
       "floor": 3
@@ -1053,161 +1053,161 @@
     "isTakerOuter": true
   },
   {
-    "start": "2020-02-10T08:00:00.000Z",
-    "title": "sara",
+    "start": "2020-02-03T08:00:00.000Z",
+    "title": "Sara (Floor: 1)",
     "user": {
       "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-02-03T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-02-03T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-02-10T08:00:00.000Z",
+    "title": "Elysse (Floor: 1)",
+    "user": {
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-02-10T08:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-02-10T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-02-17T08:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-02-17T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-02-17T08:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-02-24T08:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-02-24T08:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-02-24T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
-      "floor": 3
+      "name": "rick",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
-    "start": "2020-03-02T08:00:00.000Z",
-    "title": "sarah",
+    "start": "2020-02-24T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "sarah",
+      "name": "gurpal",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-03-02T08:00:00.000Z",
+    "title": "Aerial (Floor: 1)",
+    "user": {
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-03-02T08:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-03-02T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-03-09T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-03-09T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2020-03-09T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-03-16T07:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-03-16T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-03-16T07:00:00.000Z",
-    "title": "julian",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
@@ -1215,8 +1215,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-03-23T07:00:00.000Z",
-    "title": "sara",
+    "start": "2020-03-16T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
     "user": {
       "name": "sara",
       "floor": 1
@@ -1224,8 +1224,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-03-23T07:00:00.000Z",
-    "title": "james",
+    "start": "2020-03-16T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
@@ -1233,215 +1233,215 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-03-23T07:00:00.000Z",
-    "title": "ruby",
+    "start": "2020-03-16T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-03-23T07:00:00.000Z",
+    "title": "Elysse (Floor: 1)",
+    "user": {
+      "name": "elysse",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-03-23T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-03-23T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-03-30T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-03-30T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-03-30T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-04-06T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-04-06T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-04-06T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-04-06T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-04-13T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-04-13T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-04-13T07:00:00.000Z",
-    "title": "stephen",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "stephen",
-      "floor": 2
+      "name": "ruby",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
-    "start": "2020-04-13T07:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
     "start": "2020-04-20T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-04-20T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-04-20T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2020-04-27T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-04-27T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-04-27T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-05-04T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-05-04T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-05-04T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-05-11T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-05-11T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-05-11T07:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-05-18T07:00:00.000Z",
-    "title": "richard",
-    "user": {
-      "name": "richard",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-05-18T07:00:00.000Z",
-    "title": "james",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
@@ -1449,80 +1449,80 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-05-18T07:00:00.000Z",
-    "title": "ruby",
+    "start": "2020-05-11T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-05-18T07:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
+    "user": {
+      "name": "sarah",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-05-18T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-05-18T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-05-25T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-05-25T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-05-25T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-06-01T07:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-06-01T07:00:00.000Z",
-    "title": "dori",
+    "title": "Dori (Floor: 2)",
     "user": {
       "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2020-06-01T07:00:00.000Z",
-    "title": "charlene",
+    "start": "2020-05-25T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
     "user": {
       "name": "charlene",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2020-06-08T07:00:00.000Z",
-    "title": "kevin",
+    "start": "2020-06-01T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
     "user": {
       "name": "kevin",
       "floor": 1
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2020-06-08T07:00:00.000Z",
-    "title": "stephen",
+    "start": "2020-06-01T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
@@ -1530,314 +1530,314 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-06-08T07:00:00.000Z",
-    "title": "julian",
+    "start": "2020-06-01T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-06-08T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
+    "user": {
+      "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-06-08T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-06-08T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-06-15T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-06-15T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-06-15T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-06-22T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-06-22T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-06-22T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-06-22T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-06-29T07:00:00.000Z",
-    "title": "richard",
-    "user": {
-      "name": "richard",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-06-29T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-06-29T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Charlene (Floor: 3)",
     "user": {
       "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-06-29T07:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
+    "user": {
+      "name": "sarah",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-06-29T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-06-29T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-06T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-06T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2020-07-06T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-07-13T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-07-13T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-13T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-20T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-07-20T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-20T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-27T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-07-27T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-07-27T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2020-08-03T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-08-03T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-08-03T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-08-10T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-08-10T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-08-10T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-08-17T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-08-17T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-08-17T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-08-24T07:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-08-24T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-08-24T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-08-31T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Kevin (Floor: 1)",
     "user": {
       "name": "kevin",
       "floor": 1
@@ -1845,251 +1845,251 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-08-31T07:00:00.000Z",
-    "title": "stephen",
+    "start": "2020-08-24T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-08-24T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
+      "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-08-31T07:00:00.000Z",
-    "title": "julian",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "julian",
+      "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-08-31T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-08-31T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-07T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-09-07T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-07T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-09-07T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-14T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-09-14T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-14T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-09-14T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-21T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-21T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2020-09-21T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-09-28T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-28T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-09-28T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-10-05T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-10-05T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-10-05T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-10-05T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-10-12T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-10-12T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-10-12T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-10-19T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-10-19T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2020-10-19T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-10-26T07:00:00.000Z",
-    "title": "elysse",
-    "user": {
-      "name": "elysse",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-10-26T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-10-26T07:00:00.000Z",
-    "title": "julian",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2020-11-02T08:00:00.000Z",
-    "title": "richard",
+    "start": "2020-10-26T07:00:00.000Z",
+    "title": "Richard (Floor: 1)",
     "user": {
       "name": "richard",
       "floor": 1
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2020-11-02T08:00:00.000Z",
-    "title": "james",
+    "start": "2020-10-26T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
@@ -2097,512 +2097,512 @@
     "isTakerOuter": false
   },
   {
-    "start": "2020-11-02T08:00:00.000Z",
-    "title": "ruby",
+    "start": "2020-10-26T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-11-02T08:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
+    "user": {
+      "name": "sarah",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-11-02T08:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-11-02T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-11-09T08:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-11-09T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-11-09T08:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-11-09T08:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-11-16T08:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-11-16T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-11-16T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Charlene (Floor: 3)",
     "user": {
       "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-11-16T08:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
+    "user": {
+      "name": "kevin",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-11-16T08:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-11-16T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-11-23T08:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-11-23T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-11-23T08:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-11-30T08:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-11-30T08:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-11-30T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-11-30T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-07T08:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-07T08:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-12-07T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-14T08:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2020-12-14T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-14T08:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-12-21T08:00:00.000Z",
-    "title": "sarah",
-    "user": {
-      "name": "sarah",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2020-12-21T08:00:00.000Z",
-    "title": "stephen",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-12-14T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
+      "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2020-12-21T08:00:00.000Z",
-    "title": "julian",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "julian",
+      "name": "aerial",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2020-12-21T08:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2020-12-21T08:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-28T08:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-28T08:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2020-12-28T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-01-04T08:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-01-04T08:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2021-01-04T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2021-01-11T08:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-01-11T08:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-01-11T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-01-18T08:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-01-18T08:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-01-18T08:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-01-18T08:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-01-25T08:00:00.000Z",
-    "title": "richard",
-    "user": {
-      "name": "richard",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-01-25T08:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-01-25T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-01-25T08:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
+    "user": {
+      "name": "sarah",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-01-25T08:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-01-25T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-01T08:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-01T08:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2021-02-01T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-02-08T08:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-08T08:00:00.000Z",
-    "title": "dori",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "dori",
-      "floor": 2
+      "name": "kevin",
+      "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-02-08T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-02-08T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-15T08:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-02-15T08:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-02-15T08:00:00.000Z",
-    "title": "julian",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "julian",
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-02-15T08:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-22T08:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-22T08:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-02-22T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-03-01T08:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-03-01T08:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-03-01T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-03-01T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-03-08T08:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-03-08T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-03-08T08:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-03-15T07:00:00.000Z",
-    "title": "sarah",
-    "user": {
-      "name": "sarah",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-03-15T07:00:00.000Z",
-    "title": "stephen",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
@@ -2610,197 +2610,197 @@
     "isTakerOuter": false
   },
   {
-    "start": "2021-03-15T07:00:00.000Z",
-    "title": "julian",
+    "start": "2021-03-08T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-03-15T07:00:00.000Z",
+    "title": "Aerial (Floor: 1)",
+    "user": {
+      "name": "aerial",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-03-15T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-03-15T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-03-22T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-03-22T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-03-22T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-03-22T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-03-29T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-03-29T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-03-29T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-03-29T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-05T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-04-05T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-05T07:00:00.000Z",
-    "title": "dori",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "dori",
-      "floor": 2
+      "name": "julian",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
-    "start": "2021-04-05T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
     "start": "2021-04-12T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-04-12T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-12T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-19T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-04-19T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-19T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-04-19T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-26T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-04-26T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2021-04-26T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-05-03T07:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-05-03T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-05-03T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Charlene (Floor: 3)",
     "user": {
       "name": "charlene",
       "floor": 3
@@ -2808,8 +2808,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2021-05-10T07:00:00.000Z",
-    "title": "kevin",
+    "start": "2021-05-03T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
     "user": {
       "name": "kevin",
       "floor": 1
@@ -2817,8 +2817,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2021-05-10T07:00:00.000Z",
-    "title": "stephen",
+    "start": "2021-05-03T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
@@ -2826,656 +2826,656 @@
     "isTakerOuter": false
   },
   {
-    "start": "2021-05-10T07:00:00.000Z",
-    "title": "julian",
+    "start": "2021-05-03T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-05-10T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
+    "user": {
+      "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-05-10T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-05-10T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-05-17T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-05-17T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-05-17T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-05-24T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-05-24T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-05-24T07:00:00.000Z",
-    "title": "rick",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "rick",
-      "floor": 2
+      "name": "charlene",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
-    "start": "2021-05-24T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
     "start": "2021-05-31T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-05-31T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-05-31T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-06-07T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-06-07T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-06-07T07:00:00.000Z",
-    "title": "julian",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "julian",
-      "floor": 3
+      "name": "james",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
-    "start": "2021-06-14T07:00:00.000Z",
-    "title": "aerial",
+    "start": "2021-06-07T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "aerial",
+      "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-06-14T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
+    "user": {
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-06-14T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-06-14T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-06-21T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-06-21T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-06-21T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-06-21T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-06-28T07:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-06-28T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-06-28T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-07-05T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-07-05T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-07-05T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-07-12T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-07-12T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-07-12T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-07-12T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-07-19T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-07-19T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2021-07-19T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2021-07-26T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-07-26T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-07-26T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-02T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-08-02T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-02T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-08-02T07:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-08-09T07:00:00.000Z",
-    "title": "sara",
-    "user": {
-      "name": "sara",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-08-09T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-08-09T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-08-09T07:00:00.000Z",
+    "title": "Elysse (Floor: 1)",
+    "user": {
+      "name": "elysse",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-08-09T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-08-09T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-16T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-08-16T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-16T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-23T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-23T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-23T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-08-30T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-08-30T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-08-30T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-08-30T07:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-09-06T07:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-09-06T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-09-06T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-09-06T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
+    "user": {
+      "name": "kevin",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-09-06T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-09-06T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-09-13T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-09-13T07:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2021-09-13T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-09-20T07:00:00.000Z",
-    "title": "sara",
-    "user": {
-      "name": "sara",
-      "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-09-20T07:00:00.000Z",
-    "title": "dori",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "dori",
-      "floor": 2
+      "name": "elysse",
+      "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-09-20T07:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-09-20T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-09-27T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-09-27T07:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-09-27T07:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-10-04T07:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-10-04T07:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-10-04T07:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-10-11T07:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-10-11T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-10-11T07:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-10-11T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-10-18T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-10-18T07:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2021-10-18T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-10-25T07:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-10-25T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-10-25T07:00:00.000Z",
-    "title": "julian",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
@@ -3483,8 +3483,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2021-11-01T07:00:00.000Z",
-    "title": "sara",
+    "start": "2021-10-25T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
     "user": {
       "name": "sara",
       "floor": 1
@@ -3492,35 +3492,35 @@
     "isTakerOuter": false
   },
   {
-    "start": "2021-11-01T07:00:00.000Z",
-    "title": "james",
+    "start": "2021-10-25T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2021-11-01T07:00:00.000Z",
-    "title": "ruby",
+    "start": "2021-10-25T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2021-11-08T08:00:00.000Z",
-    "title": "elysse",
+    "start": "2021-11-01T07:00:00.000Z",
+    "title": "Elysse (Floor: 1)",
     "user": {
       "name": "elysse",
       "floor": 1
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2021-11-08T08:00:00.000Z",
-    "title": "rick",
+    "start": "2021-11-01T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
@@ -3528,269 +3528,269 @@
     "isTakerOuter": false
   },
   {
-    "start": "2021-11-08T08:00:00.000Z",
-    "title": "gurpal",
+    "start": "2021-11-01T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-11-08T08:00:00.000Z",
+    "title": "Richard (Floor: 1)",
+    "user": {
+      "name": "richard",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-11-08T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-11-08T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-11-15T08:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2021-11-15T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-11-15T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "charlene",
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-11-15T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-11-22T08:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-11-22T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2021-11-22T08:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-11-29T08:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-11-29T08:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-11-29T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "ruby",
+      "name": "kevin",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-11-29T08:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2021-11-29T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-12-06T08:00:00.000Z",
-    "title": "kevin",
+    "title": "Sara (Floor: 1)",
     "user": {
-      "name": "kevin",
+      "name": "sara",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-12-06T08:00:00.000Z",
-    "title": "rick",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "dori",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2021-12-06T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Charlene (Floor: 3)",
     "user": {
-      "name": "gurpal",
+      "name": "charlene",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2021-12-13T08:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-12-13T08:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-12-13T08:00:00.000Z",
-    "title": "charlene",
+    "title": "Julian (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "julian",
       "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-12-20T08:00:00.000Z",
-    "title": "elysse",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "elysse",
+      "name": "richard",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-12-20T08:00:00.000Z",
-    "title": "stephen",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "stephen",
+      "name": "james",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
     "start": "2021-12-20T08:00:00.000Z",
-    "title": "julian",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "julian",
+      "name": "ruby",
       "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2021-12-27T08:00:00.000Z",
-    "title": "richard",
-    "user": {
-      "name": "richard",
-      "floor": 1
     },
     "isTakerOuter": true
   },
   {
     "start": "2021-12-27T08:00:00.000Z",
-    "title": "james",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "james",
-      "floor": 2
+      "name": "sarah",
+      "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2021-12-27T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "ruby",
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2021-12-27T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-03T08:00:00.000Z",
-    "title": "sarah",
+    "title": "Aerial (Floor: 1)",
     "user": {
-      "name": "sarah",
+      "name": "aerial",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-01-03T08:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-03T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Dori (Floor: 2)",
     "user": {
-      "name": "gurpal",
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-01-03T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-10T08:00:00.000Z",
-    "title": "aerial",
+    "title": "Kevin (Floor: 1)",
     "user": {
-      "name": "aerial",
+      "name": "kevin",
       "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-01-10T08:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-10T08:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-01-17T08:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-01-17T08:00:00.000Z",
-    "title": "stephen",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
@@ -3798,116 +3798,116 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-01-17T08:00:00.000Z",
-    "title": "julian",
+    "start": "2022-01-10T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-01-17T08:00:00.000Z",
+    "title": "Sara (Floor: 1)",
+    "user": {
+      "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-01-17T08:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-01-17T08:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-24T08:00:00.000Z",
-    "title": "sara",
+    "title": "Elysse (Floor: 1)",
     "user": {
-      "name": "sara",
+      "name": "elysse",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-24T08:00:00.000Z",
-    "title": "james",
+    "title": "Rick (Floor: 2)",
     "user": {
-      "name": "james",
+      "name": "rick",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
     "start": "2022-01-24T08:00:00.000Z",
-    "title": "ruby",
+    "title": "Gurpal (Floor: 3)",
     "user": {
-      "name": "ruby",
+      "name": "gurpal",
       "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-01-31T08:00:00.000Z",
-    "title": "elysse",
-    "user": {
-      "name": "elysse",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-01-31T08:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-01-31T08:00:00.000Z",
-    "title": "gurpal",
+    "title": "Richard (Floor: 1)",
     "user": {
-      "name": "gurpal",
+      "name": "richard",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-01-31T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-01-31T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-02-07T08:00:00.000Z",
-    "title": "richard",
+    "title": "Sarah (Floor: 1)",
     "user": {
-      "name": "richard",
+      "name": "sarah",
       "floor": 1
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-02-07T08:00:00.000Z",
-    "title": "dori",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "stephen",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-02-07T08:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-02-14T08:00:00.000Z",
-    "title": "sarah",
-    "user": {
-      "name": "sarah",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-02-14T08:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-02-14T08:00:00.000Z",
-    "title": "julian",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
@@ -3915,8 +3915,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-02-21T08:00:00.000Z",
-    "title": "aerial",
+    "start": "2022-02-14T08:00:00.000Z",
+    "title": "Aerial (Floor: 1)",
     "user": {
       "name": "aerial",
       "floor": 1
@@ -3924,8 +3924,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-02-21T08:00:00.000Z",
-    "title": "james",
+    "start": "2022-02-14T08:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
@@ -3933,8 +3933,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-02-21T08:00:00.000Z",
-    "title": "ruby",
+    "start": "2022-02-14T08:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
       "floor": 3
@@ -3942,8 +3942,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-02-28T08:00:00.000Z",
-    "title": "kevin",
+    "start": "2022-02-21T08:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
     "user": {
       "name": "kevin",
       "floor": 1
@@ -3951,26 +3951,26 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-02-28T08:00:00.000Z",
-    "title": "rick",
+    "start": "2022-02-21T08:00:00.000Z",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-02-21T08:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
+      "floor": 3
     },
     "isTakerOuter": true
   },
   {
     "start": "2022-02-28T08:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-03-07T08:00:00.000Z",
-    "title": "sara",
+    "title": "Sara (Floor: 1)",
     "user": {
       "name": "sara",
       "floor": 1
@@ -3978,26 +3978,26 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-03-07T08:00:00.000Z",
-    "title": "dori",
+    "start": "2022-02-28T08:00:00.000Z",
+    "title": "Dori (Floor: 2)",
     "user": {
       "name": "dori",
       "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-02-28T08:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-03-07T08:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-03-14T07:00:00.000Z",
-    "title": "elysse",
+    "title": "Elysse (Floor: 1)",
     "user": {
       "name": "elysse",
       "floor": 1
@@ -4005,8 +4005,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-03-14T07:00:00.000Z",
-    "title": "stephen",
+    "start": "2022-03-07T08:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
@@ -4014,8 +4014,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-03-14T07:00:00.000Z",
-    "title": "julian",
+    "start": "2022-03-07T08:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
@@ -4023,8 +4023,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-03-21T07:00:00.000Z",
-    "title": "richard",
+    "start": "2022-03-14T07:00:00.000Z",
+    "title": "Richard (Floor: 1)",
     "user": {
       "name": "richard",
       "floor": 1
@@ -4032,44 +4032,44 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-03-21T07:00:00.000Z",
-    "title": "james",
+    "start": "2022-03-14T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2022-03-21T07:00:00.000Z",
-    "title": "ruby",
+    "start": "2022-03-14T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2022-03-28T07:00:00.000Z",
-    "title": "sarah",
+    "start": "2022-03-21T07:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
     "user": {
       "name": "sarah",
       "floor": 1
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2022-03-28T07:00:00.000Z",
-    "title": "rick",
+    "start": "2022-03-21T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2022-03-28T07:00:00.000Z",
-    "title": "gurpal",
+    "start": "2022-03-21T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
       "floor": 3
@@ -4077,8 +4077,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-04-04T07:00:00.000Z",
-    "title": "aerial",
+    "start": "2022-03-28T07:00:00.000Z",
+    "title": "Aerial (Floor: 1)",
     "user": {
       "name": "aerial",
       "floor": 1
@@ -4086,26 +4086,26 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-04-04T07:00:00.000Z",
-    "title": "dori",
+    "start": "2022-03-28T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
     "user": {
       "name": "dori",
       "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-03-28T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
+      "floor": 3
     },
     "isTakerOuter": false
   },
   {
     "start": "2022-04-04T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-04-11T07:00:00.000Z",
-    "title": "kevin",
+    "title": "Kevin (Floor: 1)",
     "user": {
       "name": "kevin",
       "floor": 1
@@ -4113,8 +4113,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-04-11T07:00:00.000Z",
-    "title": "stephen",
+    "start": "2022-04-04T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
@@ -4122,8 +4122,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-04-11T07:00:00.000Z",
-    "title": "julian",
+    "start": "2022-04-04T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
@@ -4131,8 +4131,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-04-18T07:00:00.000Z",
-    "title": "sara",
+    "start": "2022-04-11T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
     "user": {
       "name": "sara",
       "floor": 1
@@ -4140,8 +4140,116 @@
     "isTakerOuter": false
   },
   {
+    "start": "2022-04-11T07:00:00.000Z",
+    "title": "James (Floor: 2)",
+    "user": {
+      "name": "james",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-04-11T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
+    "user": {
+      "name": "ruby",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
     "start": "2022-04-18T07:00:00.000Z",
-    "title": "james",
+    "title": "Elysse (Floor: 1)",
+    "user": {
+      "name": "elysse",
+      "floor": 1
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-04-18T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-04-18T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-04-25T07:00:00.000Z",
+    "title": "Richard (Floor: 1)",
+    "user": {
+      "name": "richard",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-04-25T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-04-25T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-05-02T07:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
+    "user": {
+      "name": "sarah",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-02T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
+    "user": {
+      "name": "stephen",
+      "floor": 2
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-02T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
+      "floor": 3
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-05-09T07:00:00.000Z",
+    "title": "Aerial (Floor: 1)",
+    "user": {
+      "name": "aerial",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-09T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
@@ -4149,8 +4257,8 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-04-18T07:00:00.000Z",
-    "title": "ruby",
+    "start": "2022-05-09T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
       "floor": 3
@@ -4158,8 +4266,62 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-04-25T07:00:00.000Z",
-    "title": "elysse",
+    "start": "2022-05-16T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
+    "user": {
+      "name": "kevin",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-16T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
+    "user": {
+      "name": "rick",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-05-16T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
+    "user": {
+      "name": "gurpal",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-23T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
+    "user": {
+      "name": "sara",
+      "floor": 1
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-23T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
+    "user": {
+      "name": "dori",
+      "floor": 2
+    },
+    "isTakerOuter": true
+  },
+  {
+    "start": "2022-05-23T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
+    "user": {
+      "name": "charlene",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-05-30T07:00:00.000Z",
+    "title": "Elysse (Floor: 1)",
     "user": {
       "name": "elysse",
       "floor": 1
@@ -4167,26 +4329,26 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-04-25T07:00:00.000Z",
-    "title": "rick",
+    "start": "2022-05-30T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
-      "name": "rick",
+      "name": "stephen",
       "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-04-25T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
     },
     "isTakerOuter": true
   },
   {
-    "start": "2022-05-02T07:00:00.000Z",
-    "title": "richard",
+    "start": "2022-05-30T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
+    "user": {
+      "name": "julian",
+      "floor": 3
+    },
+    "isTakerOuter": false
+  },
+  {
+    "start": "2022-06-06T07:00:00.000Z",
+    "title": "Richard (Floor: 1)",
     "user": {
       "name": "richard",
       "floor": 1
@@ -4194,26 +4356,26 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-05-02T07:00:00.000Z",
-    "title": "dori",
+    "start": "2022-06-06T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
-      "name": "dori",
+      "name": "james",
       "floor": 2
     },
     "isTakerOuter": false
   },
   {
-    "start": "2022-05-02T07:00:00.000Z",
-    "title": "charlene",
+    "start": "2022-06-06T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
-      "name": "charlene",
+      "name": "ruby",
       "floor": 3
     },
     "isTakerOuter": false
   },
   {
-    "start": "2022-05-09T07:00:00.000Z",
-    "title": "sarah",
+    "start": "2022-06-13T07:00:00.000Z",
+    "title": "Sarah (Floor: 1)",
     "user": {
       "name": "sarah",
       "floor": 1
@@ -4221,62 +4383,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-05-09T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-05-09T07:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-05-16T07:00:00.000Z",
-    "title": "aerial",
-    "user": {
-      "name": "aerial",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-05-16T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-05-16T07:00:00.000Z",
-    "title": "ruby",
-    "user": {
-      "name": "ruby",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-05-23T07:00:00.000Z",
-    "title": "kevin",
-    "user": {
-      "name": "kevin",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-05-23T07:00:00.000Z",
-    "title": "rick",
+    "start": "2022-06-13T07:00:00.000Z",
+    "title": "Rick (Floor: 2)",
     "user": {
       "name": "rick",
       "floor": 2
@@ -4284,8 +4392,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-05-23T07:00:00.000Z",
-    "title": "gurpal",
+    "start": "2022-06-13T07:00:00.000Z",
+    "title": "Gurpal (Floor: 3)",
     "user": {
       "name": "gurpal",
       "floor": 3
@@ -4293,125 +4401,17 @@
     "isTakerOuter": true
   },
   {
-    "start": "2022-05-30T07:00:00.000Z",
-    "title": "sara",
-    "user": {
-      "name": "sara",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-05-30T07:00:00.000Z",
-    "title": "dori",
-    "user": {
-      "name": "dori",
-      "floor": 2
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-05-30T07:00:00.000Z",
-    "title": "charlene",
-    "user": {
-      "name": "charlene",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-06-06T07:00:00.000Z",
-    "title": "elysse",
-    "user": {
-      "name": "elysse",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-06-06T07:00:00.000Z",
-    "title": "stephen",
-    "user": {
-      "name": "stephen",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-06-06T07:00:00.000Z",
-    "title": "julian",
-    "user": {
-      "name": "julian",
-      "floor": 3
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-06-13T07:00:00.000Z",
-    "title": "richard",
-    "user": {
-      "name": "richard",
-      "floor": 1
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-06-13T07:00:00.000Z",
-    "title": "james",
-    "user": {
-      "name": "james",
-      "floor": 2
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-06-13T07:00:00.000Z",
-    "title": "ruby",
-    "user": {
-      "name": "ruby",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
     "start": "2022-06-20T07:00:00.000Z",
-    "title": "sarah",
-    "user": {
-      "name": "sarah",
-      "floor": 1
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-06-20T07:00:00.000Z",
-    "title": "rick",
-    "user": {
-      "name": "rick",
-      "floor": 2
-    },
-    "isTakerOuter": true
-  },
-  {
-    "start": "2022-06-20T07:00:00.000Z",
-    "title": "gurpal",
-    "user": {
-      "name": "gurpal",
-      "floor": 3
-    },
-    "isTakerOuter": false
-  },
-  {
-    "start": "2022-06-27T07:00:00.000Z",
-    "title": "aerial",
+    "title": "Aerial (Floor: 1)",
     "user": {
       "name": "aerial",
       "floor": 1
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2022-06-27T07:00:00.000Z",
-    "title": "dori",
+    "start": "2022-06-20T07:00:00.000Z",
+    "title": "Dori (Floor: 2)",
     "user": {
       "name": "dori",
       "floor": 2
@@ -4419,35 +4419,35 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-06-27T07:00:00.000Z",
-    "title": "charlene",
+    "start": "2022-06-20T07:00:00.000Z",
+    "title": "Charlene (Floor: 3)",
     "user": {
       "name": "charlene",
       "floor": 3
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2022-07-04T07:00:00.000Z",
-    "title": "kevin",
+    "start": "2022-06-27T07:00:00.000Z",
+    "title": "Kevin (Floor: 1)",
     "user": {
       "name": "kevin",
       "floor": 1
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2022-07-04T07:00:00.000Z",
-    "title": "stephen",
+    "start": "2022-06-27T07:00:00.000Z",
+    "title": "Stephen (Floor: 2)",
     "user": {
       "name": "stephen",
       "floor": 2
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   },
   {
-    "start": "2022-07-04T07:00:00.000Z",
-    "title": "julian",
+    "start": "2022-06-27T07:00:00.000Z",
+    "title": "Julian (Floor: 3)",
     "user": {
       "name": "julian",
       "floor": 3
@@ -4455,8 +4455,8 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-07-11T07:00:00.000Z",
-    "title": "sara",
+    "start": "2022-07-04T07:00:00.000Z",
+    "title": "Sara (Floor: 1)",
     "user": {
       "name": "sara",
       "floor": 1
@@ -4464,21 +4464,21 @@
     "isTakerOuter": false
   },
   {
-    "start": "2022-07-11T07:00:00.000Z",
-    "title": "james",
+    "start": "2022-07-04T07:00:00.000Z",
+    "title": "James (Floor: 2)",
     "user": {
       "name": "james",
       "floor": 2
     },
-    "isTakerOuter": false
+    "isTakerOuter": true
   },
   {
-    "start": "2022-07-11T07:00:00.000Z",
-    "title": "ruby",
+    "start": "2022-07-04T07:00:00.000Z",
+    "title": "Ruby (Floor: 3)",
     "user": {
       "name": "ruby",
       "floor": 3
     },
-    "isTakerOuter": true
+    "isTakerOuter": false
   }
 ]
